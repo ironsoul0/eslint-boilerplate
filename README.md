@@ -1,4 +1,4 @@
-# Template for headless using of ESLint with TypeScript/JavaScript 
+# Template for headless ESLint + TypeScript
 
 Contains all necessary dev packages for correct linting and formatting your code.
 
